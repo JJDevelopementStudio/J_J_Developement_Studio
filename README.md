@@ -1,5 +1,5 @@
 # J_J_Development_Studio
 
-<img src="https://github.com/JJDevelopementStudio/J_J_Developement_Studio/blob/main/JJ_logo_003.jpg?raw=true" width="200" height="200">  
+<img src="https://github.com/JJDevelopementStudio/J_J_Development_Studio/blob/main/logo_jjds_004.jpg?raw=true" width="200" height="200">  
 
 Equipe
